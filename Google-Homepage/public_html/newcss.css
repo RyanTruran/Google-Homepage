@@ -84,14 +84,14 @@ footer{
     right:0px;
     background-color:#F2F2F2;
     border: 1px solid #E2E2E2;
-    height:5%;
+    height:51px;
     display:inline-block;
 
 }
 .left_footer{
     position:absolute;
     bottom:0px;
-    width:100%;
+    width:auto;
     height:auto;
     text-align: left;
     display:inline;
@@ -100,9 +100,10 @@ footer{
 }
 .right_footer{
     position:absolute;
+    right:0;
     bottom:0px;
-    width:100%;
-    height:auto;
+    width:auto;
+    height:auto ;
     text-align: right;
     display: inline;
 }
