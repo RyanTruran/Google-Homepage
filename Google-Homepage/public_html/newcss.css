@@ -69,10 +69,12 @@ button{
     border: 1px solid #4285f4;
     color:white;
     height:32px;
+    display:inline;
 }
 a:hover{
     text-decoration:underline;
 }
+
 body{
     height:100%;
 }
